@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    margin: 10px;
+    height: 56px;
+    background-color: rgb(22, 120, 218);
+    text-align: center;
+}
+.menu ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 10px;
+}

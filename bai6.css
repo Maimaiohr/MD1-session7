@@ -1,0 +1,50 @@
+*{
+    border: 0;
+    padding: 0;
+}
+.formdk{
+    width: 300px;
+    padding: 10px;
+    padding: 10px auto;
+    background-color: rgb(218, 217, 215);
+}
+.dangki{
+    display: flex;
+    justify-content: space-between;
+}
+.formdk div{
+    padding-bottom: 10px;
+    text-align: center;
+}
+input{
+    width: 270px;
+    height: 30px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    width: 270px;
+    height: 30px;
+    background-color: blue;
+    color: white;
+}
+.formdk div img{
+    width: 30px;
+    height: 30px;
+}
+.fb{
+    position: relative;
+}
+.logo-fb{
+    position: absolute;
+    left: 6%;
+}
+.gg{
+    position: relative;
+}
+.logo-gg{
+    position: absolute;
+    left: 18%;
+}

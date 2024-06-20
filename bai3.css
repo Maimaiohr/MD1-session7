@@ -1,0 +1,27 @@
+
+.container {
+    padding: 30px;
+    display: flex;
+}
+.column, .row {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.row {
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.tile {
+    width: 40px;
+    height: 40px;
+    background-color: #e74c3c;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2px;
+
+}
